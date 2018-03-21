@@ -4,7 +4,8 @@ Created by:
     Phi Nguyen
     Nicole Baze
 	Leonardo Melendez
-    
+    Karandeep Singh
+
     Copyright 2018. All rights reserved.
-   
+
 
