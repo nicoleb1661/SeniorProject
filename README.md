@@ -7,6 +7,6 @@ Created by:
     Karandeep Singh
 
     Copyright 2018. All rights reserved.
-    Any use of this code without permission is prohbibited.
+    Any use of this code without permission is prohibited.
 
 
